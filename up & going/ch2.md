@@ -571,7 +571,7 @@ Not only will strict mode keep your code to a safer path, and not only will it m
 
 **Note:** For more information about strict mode, see the Chapter 5 of the *Types & Grammar* title of this series.
 
-## Functions As Values
+## Functions As Values --//--
 
 So far, we've discussed functions as the primary mechanism of *scope* in JavaScript. You recall typical `function` declaration syntax as follows:
 
