@@ -438,7 +438,7 @@ Because of using `let` instead of `var`, `b` will belong only to the `if` statem
 
 **Note:** For more information about scope, see the *Scope & Closures* title of this series. See the *ES6 & Beyond* title of this series for more information about `let` block scoping.
 
-## Conditionals --//--
+## Conditionals
 
 In addition to the `if` statement we introduced briefly in Chapter 1, JavaScript provides a few other conditionals mechanisms that we should take a look at.
 
