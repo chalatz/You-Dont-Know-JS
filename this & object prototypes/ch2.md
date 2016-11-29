@@ -612,7 +612,7 @@ Now, we can summarize the rules for determining `this` from a function call's ca
 
 That's it. That's *all it takes* to understand the rules of `this` binding for normal function calls. Well... almost.
 
-## Binding Exceptions <--
+## Binding Exceptions <---
 
 As usual, there are some *exceptions* to the "rules".
 
